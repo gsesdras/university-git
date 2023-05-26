@@ -1,2 +1,1 @@
 # university-git
-# university-git
